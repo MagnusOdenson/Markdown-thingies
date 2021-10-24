@@ -81,6 +81,13 @@ First header | Second Header
 -------------|---------------  
 Content cell 1 | Content cell 2  
 Content column 1 | Content column 2  
+
+First header | Second Header | Third Header  
+-------------|---------------|-------------  
+Content 1    |Content 2      |Content 3  
+Content v2.1 |Content v2.2   |Content v2.3  
+
+
 ## Paragraph after table
 <!-- Paragraph after table -->
 In the bleak mid-winter  
