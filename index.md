@@ -81,12 +81,12 @@ function test()  {
 
 
 ## Table
-<!-- Example for Tables -->  
-
+<!-- Example for Tables -->
 | First header     | Second Header    |
 | ---------------- | ---------------- |
 | Content cell 1   | Content cell 2   |
 | Content column 1 | Content column 2 |
+
 
 | First header | Second Header | Third Header |
 | ------------ | ------------- | ------------ |
