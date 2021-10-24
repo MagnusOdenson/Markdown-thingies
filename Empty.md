@@ -1,21 +1,21 @@
 ## Table of content
 <!-- Here comes the TOC -->
-- [In the bleak mid-winter](#in-the-bleak-mid-winter)
-- [Simple text](#simple-text)
-  - [Paragraph of text](#paragraph-of-text)
-  - [Bold](#bold)
-  - [Italic](#italic)
-- [Links and Images](#links-and-images)
-  - [Links](#links)
-  - [Images](#images)
-  - [Block of code](#block-of-code)
-  - [Citation](#citation)
-  - [Bullet list](#bullet-list)
-  - [Numbered list](#numbered-list)
-  - [Table](#table)
-  - [Paragraph after table](#paragraph-after-table)
+1. [Simple text](#simple-text)
+   1. [Paragraph of text](#paragraph-of-text)
+   2. [Bold](#bold)
+   3. [Italic](#italic)
+2. [Links and Images](#links-and-images)
+   1. [Links](#links)
+   2. [Images](#images)
+   3. [Block of code](#block-of-code)
+   4. [Citation](#citation)
+   5. [Bullet list](#bullet-list)
+   6. [Numbered list](#numbered-list)
+   7. [Table](#table)
+   8. [Paragraph after table](#paragraph-after-table)
 
-<!-- Example for title -->
+<!-- Example for title -->  
+<!-- omit in toc -->
 In the bleak mid-winter
 ======================= 
 # Simple text
@@ -79,15 +79,15 @@ function test()  {
 2. Numbered list 2  
 ## Table
 <!-- Example for Tables -->  
-First header | Second Header  
--------------|---------------  
-Content cell 1 | Content cell 2  
-Content column 1 | Content column 2  
+| First header     | Second Header    |
+| ---------------- | ---------------- |
+| Content cell 1   | Content cell 2   |
+| Content column 1 | Content column 2 |
 
-First header | Second Header | Third Header  
--------------|---------------|-------------  
-Content 1    |Content 2      |Content 3  
-Content v2.1 |Content v2.2   |Content v2.3  
+| First header | Second Header | Third Header |
+| ------------ | ------------- | ------------ |
+| Content 1    | Content 2     | Content 3    |
+| Content v2.1 | Content v2.2  | Content v2.3 |
 
 
 ## Paragraph after table
