@@ -16,8 +16,8 @@
 
 <!-- Example for title --> 
 <!-- omit in toc -->
-In the bleak mid-winter
-=  
+# In the bleak mid-winter
+  
 
 # Simple text
 <!-- Example for normal text -->  
