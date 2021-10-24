@@ -14,7 +14,8 @@
    7. [Table](#table)
    8. [Paragraph after table](#paragraph-after-table)
 
-<!-- Example for title -->  
+<!-- Example for title --> 
+ 
 <!-- omit in toc -->
 In the bleak mid-winter
 ======================= 
