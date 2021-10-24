@@ -56,11 +56,11 @@ In the bleak mid-winter
   
 ## Block of code
 <!-- A block of code -->
-'''javascript  
+```javascript
 function test()  {  
     console.log("look ma', no spaces");  
 }  
-'''  
+```  
 ## Citation
 <!-- Example for Quote -->
 >In the bleak mid-winter  
