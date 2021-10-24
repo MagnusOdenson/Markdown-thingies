@@ -40,7 +40,7 @@ In the bleak mid-winter
 [Techwriter.pl](www.techwriter.pl)
 <!-- Example for Images -->  
 ## Images
-![Logo 1](marx.jpg)    
+![Logo 1](Marx.jpg)    
 ![Logo 2](https://cdnb.artstation.com/p/assets/images/images/029/700/321/large/semrram-gonzalez-dc-logo.jpg?1598376808)
 <!-- Example for linking to another file-->
   
