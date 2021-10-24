@@ -68,12 +68,15 @@ function test()  {
 <!-- Example for Quote -->
 >In the bleak mid-winter  
 >Frosty wind made moan  
+
 ## Bullet list  
 <!-- Example for Bullet List -->
 * bullet list 1  
 * bullet list 2
   * Nested item 1
   * Nested item 2  
+
+
 ## Numbered list
 <!-- Example for Numbered List -->
 1. Numbered list 1
