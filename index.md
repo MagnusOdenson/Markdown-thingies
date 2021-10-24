@@ -82,6 +82,7 @@ function test()  {
 
 ## Table
 <!-- Example for Tables -->  
+
 | First header     | Second Header    |
 | ---------------- | ---------------- |
 | Content cell 1   | Content cell 2   |
