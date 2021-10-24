@@ -82,16 +82,16 @@ function test()  {
 
 ## Table
 <!-- Example for Tables -->
-| First header     | Second Header    |
-| ---------------- | ---------------- |
-| Content cell 1   | Content cell 2   |
-| Content column 1 | Content column 2 |
-
 
 | First header | Second Header | Third Header |
 | ------------ | ------------- | ------------ |
 | Content 1    | Content 2     | Content 3    |
 | Content v2.1 | Content v2.2  | Content v2.3 |
+
+| First header | Second Header |
+| ------------ | ------------- |
+| Content 1    | Content 2     |
+| Content 1.1  | Content 2.1   |
 
 
 ## Paragraph after table
@@ -103,6 +103,3 @@ water like a stone
 Snow had fallen, snow on snow  
 Snow on snow,  
 In the bleak mid-winter  
-
-<!-- omit in toc -->
-## this is special header 2
