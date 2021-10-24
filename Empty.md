@@ -1,21 +1,32 @@
+## Table of content
+<!-- Here comes the TOC -->
+- [In the bleak mid-winter](#in-the-bleak-mid-winter)
+- [Simple text](#simple-text)
+  - [Paragraph of text](#paragraph-of-text)
+  - [Bold](#bold)
+  - [Italic](#italic)
+- [Links and Images](#links-and-images)
+  - [Links](#links)
+  - [Images](#images)
+  - [Block of code](#block-of-code)
+  - [Citation](#citation)
+  - [Bullet list](#bullet-list)
+  - [Numbered list](#numbered-list)
+  - [Table](#table)
+  - [Paragraph after table](#paragraph-after-table)
+
+<!-- Example for title -->
+In the bleak mid-winter
+======================= 
 # Simple text
-<!-- Example for normal text -->
-This is sample text.  
-This is second sample.  
+<!-- Example for normal text -->  
 In the bleak mid-winter  
 Frosty wind made moan  
 Earth stood hard as iron  
 water like a stone  
 Snow had fallen, snow on snow  
 Snow on snow,  
-In the bleak mid-winter  
-## Title  
-<!-- Example for title -->
-In the bleak mid-winter
-=======================  
-## Table of content
-<!-- Here comes the TOC -->
-  
+In the bleak mid-winter   
 ## Paragraph of text  
 <!-- Example of paragraph of text --> 
 In the bleak mid-winter  
@@ -25,9 +36,6 @@ water like a stone
 Snow had fallen, snow on snow  
 Snow on snow,  
 In the bleak mid-winter  
-## Paragrapgh of text 2  
-<!-- Example of another paragraph -->
-  
 ## Bold
 <!-- Example for Bold -->
 **In the bleak mid-winter**  
@@ -44,12 +52,6 @@ In the bleak mid-winter
 ![Logo 2](https://cdnb.artstation.com/p/assets/images/images/029/700/321/large/semrram-gonzalez-dc-logo.jpg?1598376808)
 <!-- Example for linking to another file-->
   
-# Headers
-<!-- Example for Headers -->
-# In the bleak mid-winter  
-## In the bleak mid-winter  
-### In the bleak mid-winter  
-#### In the bleak mid-winter
 <!-- Just text with equation -->
 
 <!-- Example for inline code -->
